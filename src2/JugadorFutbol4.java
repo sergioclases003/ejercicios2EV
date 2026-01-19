@@ -1,4 +1,4 @@
-public class JugadorFutbol {
+public class JugadorFutbol4 {
     private String nombre;
     private String equipo;
     private int dorsal;
@@ -14,7 +14,7 @@ public class JugadorFutbol {
     public void setPosition(String position) { this.position = position; }
 
     public static void main(String[] args) {
-        JugadorFutbol j = new JugadorFutbol();
+        JugadorFutbol4 j = new JugadorFutbol4();
         j.setNombre("Messi");
         j.setEquipo("Inter Miami");
         j.setDorsal(10);

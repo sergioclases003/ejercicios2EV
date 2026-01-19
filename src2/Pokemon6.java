@@ -1,4 +1,4 @@
-public class Pokemon {
+public class Pokemon6 {
     private String nombre;
     private String tipo;
     private int nivel;
@@ -14,7 +14,7 @@ public class Pokemon {
     public void setVida(int vida) { this.vida = vida; }
 
     public static void main(String[] args) {
-        Pokemon poke = new Pokemon();
+        Pokemon6 poke = new Pokemon6();
         poke.setNombre("Pikachu");
         poke.setTipo("Electrico");
         poke.setNivel(5);

@@ -1,4 +1,4 @@
-public class Skin {
+public class Skin5 {
     private String nombre;
     private String videojuego;
     private String rareza;
@@ -14,9 +14,9 @@ public class Skin {
     public void setPrecioMonedas(int precioMonedas) { this.precioMonedas = precioMonedas; }
 
     public static void main(String[] args) {
-        Skin s1 = new Skin();
+        Skin5 s1 = new Skin5();
         s1.setNombre("Renegade"); s1.setVideojuego("Fortnite"); s1.setRareza("Rara"); s1.setPrecioMonedas(1200);
-        Skin s2 = new Skin();
+        Skin5 s2 = new Skin5();
         s2.setNombre("Skull Trooper"); s2.setVideojuego("Fortnite"); s2.setRareza("Epica"); s2.setPrecioMonedas(1500);
         
         System.out.println("Skin 2: " + s2.getNombre() + " (" + s2.getRareza() + ", " + s2.getPrecioMonedas() + " monedas)");

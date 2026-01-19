@@ -1,4 +1,4 @@
-public class Manga {
+public class Manga7 {
     private String titulo;
     private String autor;
     private int volumen;
@@ -14,7 +14,7 @@ public class Manga {
     public void setLeido(boolean leido) { this.leido = leido; }
 
     public static void main(String[] args) {
-        Manga m = new Manga();
+        Manga7 m = new Manga7();
         m.setTitulo("One Piece");
         m.setAutor("Eiichiro Oda");
         m.setVolumen(107);

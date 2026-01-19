@@ -1,4 +1,4 @@
-public class EquipoEsports {
+public class EquipoEsports8 {
     private String nombre;
     private String juego;
     private String pais;
@@ -14,7 +14,7 @@ public class EquipoEsports {
     public void setRankingMundial(int rankingMundial) { this.rankingMundial = rankingMundial; }
 
     public static void main(String[] args) {
-        EquipoEsports e = new EquipoEsports();
+        EquipoEsports8 e = new EquipoEsports8();
         e.setNombre("G2 Esports");
         e.setJuego("League of Legends");
         e.setPais("Alemania");

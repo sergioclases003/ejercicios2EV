@@ -1,4 +1,4 @@
-public class Cancion {
+public class Cancion1 {
     private String titulo;
     private String artista;
     private int duracionSegundos;
@@ -11,12 +11,12 @@ public class Cancion {
     public void setDuracionSegundos(int duracionSegundos) { this.duracionSegundos = duracionSegundos; }
 
     public static void main(String[] args) {
-        Cancion c1 = new Cancion();
+        Cancion1 c1 = new Cancion1();
         c1.setTitulo("Bohemian Rhapsody");
         c1.setArtista("Queen");
         c1.setDuracionSegundos(354);
         
-        Cancion c2 = new Cancion();
+        Cancion1 c2 = new Cancion1();
         c2.setTitulo("Thriller");
         c2.setArtista("Michael Jackson");
         c2.setDuracionSegundos(357);

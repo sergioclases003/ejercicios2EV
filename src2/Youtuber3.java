@@ -1,4 +1,4 @@
-public class Youtuber {
+public class Youtuber3 {
     private String nombreCanal;
     private String categoria;
     private int suscriptores;
@@ -11,11 +11,11 @@ public class Youtuber {
     public void setSuscriptores(int suscriptores) { this.suscriptores = suscriptores; }
 
     public static void main(String[] args) {
-        Youtuber y1 = new Youtuber();
+        Youtuber3 y1 = new Youtuber3();
         y1.setNombreCanal("ElRubius"); y1.setCategoria("Gaming"); y1.setSuscriptores(40000000);
-        Youtuber y2 = new Youtuber();
+        Youtuber3 y2 = new Youtuber3();
         y2.setNombreCanal("Ibai"); y2.setCategoria("Entretenimiento"); y2.setSuscriptores(15000000);
-        Youtuber y3 = new Youtuber();
+        Youtuber3 y3 = new Youtuber3();
         y3.setNombreCanal("AuronPlay"); y3.setCategoria("Comedia"); y3.setSuscriptores(29000000);
         
         System.out.println(y2.getNombreCanal() + " tiene " + y2.getSuscriptores() + " subs.");

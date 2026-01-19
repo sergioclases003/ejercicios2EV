@@ -1,4 +1,4 @@
-public class Pelicula {
+public class Pelicula2 {
     private String titulo;
     private String director;
     private int anioEstreno;
@@ -14,7 +14,7 @@ public class Pelicula {
     public void setDuracionMinutos(int duracionMinutos) { this.duracionMinutos = duracionMinutos; }
 
     public static void main(String[] args) {
-        Pelicula p = new Pelicula();
+        Pelicula2 p = new Pelicula2();
         p.setTitulo("Inception");
         p.setDirector("Christopher Nolan");
         p.setAnioEstreno(2010);
