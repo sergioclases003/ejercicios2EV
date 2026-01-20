@@ -1,4 +1,3 @@
-package ejercicios;
 
 public class personaje12 {
     private String nombre;
