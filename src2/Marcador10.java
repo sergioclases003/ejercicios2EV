@@ -1,5 +1,3 @@
-package ejercicios;
-
 public class Marcador10 {
     private String equipoLocal;
     private String equipoVisitante;

@@ -16,5 +16,11 @@ public class Main {
         Manga7.main(args);
         System.out.println("\nEjecutando Ejercicio 8:");
         EquipoEsports8.main(args);
+        System.out.println("\nEjecutando Ejercicio 9:");
+        CancionStats9.main(args);
+        System.out.println("\nEjecutando Ejercicio 10:");
+        Marcador10.main(args);
+        System.out.println("\nEjecutando Ejercicio 11:");
+        BateriaMovil11.main(args);
     }
 }
