@@ -49,5 +49,7 @@ public class Main {
         System.out.println("\nEjecutando Ejercicio 16:");
         EntradasCine16.main(args);
 
+        System.out.println("\nEjecutando Ejercicio 17:");
+        sem2CuentaBancaria17.main(args);
     }
 }
