@@ -43,5 +43,8 @@ public class Main {
         System.out.println("\nEjecutando Ejercicio 14:");
         post14.main(args);
 
+        System.out.println("\nEjecutando Ejercicio 15:");
+        SesionJuego15.main(args);
+
     }
 }
