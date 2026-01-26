@@ -49,7 +49,35 @@ public class Main {
         System.out.println("\nEjecutando Ejercicio 16:");
         EntradasCine16.main(args);
 
+        /*
+        ================================================================================
+        */
+
+        System.out.println("\n");
+        System.out.println("\n");
+
+        System.out.println("" +
+                " ███████╗███████╗███╗   ███╗ █████╗ ███╗   ██╗ █████╗ \n" +
+                " ██╔════╝██╔════╝████╗ ████║██╔══██╗████╗  ██║██╔══██╗\n" +
+                " ███████╗█████╗  ██╔████╔██║███████║██╔██╗ ██║███████║\n" +
+                " ╚════██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║\n" +
+                " ███████║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║\n" +
+                " ╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝\n" +
+                "\n" +
+                "        SEMANA 2 - EJERCICIOS");
+        System.out.println("\n");
+
+        /*
+        ================================================================================
+        */
+
         System.out.println("\nEjecutando Ejercicio 17:");
         sem2CuentaBancaria17.main(args);
+
+        System.out.println("\nEjecutando Ejercicio 18: ");
+        sem2personaje18.main(args);
+
+        System.out.println("\nEjecutando Ejercicio 19: ");
+        sem2Contador19.main(args);
     }
 }
