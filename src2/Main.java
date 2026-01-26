@@ -71,13 +71,17 @@ public class Main {
         ================================================================================
         */
 
-        System.out.println("\nEjecutando Ejercicio 17:");
+        System.out.println("\nEjecutando Ejercicio 17:");  //1
         sem2CuentaBancaria17.main(args);
 
-        System.out.println("\nEjecutando Ejercicio 18: ");
+        System.out.println("\nEjecutando Ejercicio 18: "); //2
         sem2personaje18.main(args);
 
-        System.out.println("\nEjecutando Ejercicio 19: ");
+        System.out.println("\nEjecutando Ejercicio 19: "); //3
         sem2Contador19.main(args);
+
+        System.out.println("\nEjecutando Ejercicio 20:"); //4
+        sem2coche20.main(args);
+
     }
 }
