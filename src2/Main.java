@@ -83,5 +83,13 @@ public class Main {
         System.out.println("\nEjecutando Ejercicio 20:"); //4
         sem2coche20.main(args);
 
+        System.out.println("\nEjecutando Ejercicio 21:"); //4
+        sem2termómetro21.main(args);
+
+
+        System.out.println("\nEjecutando Ejercicio 22:"); //4
+        sem2mascota22.main(args);
+
+
     }
 }
