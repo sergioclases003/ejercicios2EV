@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2jugador25 {
     private String nombre;
     private int experiencia;

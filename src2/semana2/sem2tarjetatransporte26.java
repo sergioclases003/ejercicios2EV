@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2tarjetatransporte26 {
     private double saldo;
 

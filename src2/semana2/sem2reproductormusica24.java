@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2reproductormusica24 {
     private int volumen;
 

@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2coche20 {
     private String marca;
     private double velocidad;

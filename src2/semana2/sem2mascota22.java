@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2mascota22 {
     private String nombre;
     private int hambre;

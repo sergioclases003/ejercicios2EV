@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2termómetro21 {
     private double temperatura;
 

@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2ascensor23 {
     private int plantaActual;
 

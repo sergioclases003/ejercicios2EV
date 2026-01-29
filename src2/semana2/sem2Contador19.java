@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2Contador19 {
     private int valor;
 

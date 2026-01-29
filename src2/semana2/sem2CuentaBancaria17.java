@@ -1,3 +1,4 @@
+package semana2;
 
 public class sem2CuentaBancaria17 {
     private String titular;

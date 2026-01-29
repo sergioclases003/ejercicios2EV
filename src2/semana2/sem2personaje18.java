@@ -1,3 +1,5 @@
+package semana2;
+
 public class sem2personaje18 {
     private String nombre;
     private int vida;
