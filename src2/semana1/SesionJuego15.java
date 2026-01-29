@@ -1,3 +1,5 @@
+package semana1;
+
 public class SesionJuego15 {
     private String nombreJuego;
     private int minutosJugados;

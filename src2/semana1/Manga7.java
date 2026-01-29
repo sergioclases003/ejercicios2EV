@@ -1,3 +1,5 @@
+package semana1;
+
 public class Manga7 {
     private String titulo;
     private String autor;

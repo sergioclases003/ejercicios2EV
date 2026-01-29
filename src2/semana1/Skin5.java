@@ -1,3 +1,5 @@
+package semana1;
+
 public class Skin5 {
     private String nombre;
     private String videojuego;

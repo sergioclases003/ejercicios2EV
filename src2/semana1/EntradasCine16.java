@@ -1,3 +1,5 @@
+package semana1;
+
 public class EntradasCine16 {
     private String nombrePelicula;
     private double precioBase;

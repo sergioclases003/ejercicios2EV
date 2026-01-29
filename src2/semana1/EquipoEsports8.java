@@ -1,3 +1,5 @@
+package semana1;
+
 public class EquipoEsports8 {
     private String nombre;
     private String juego;

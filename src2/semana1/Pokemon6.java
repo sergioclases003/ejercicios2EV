@@ -1,3 +1,5 @@
+package semana1;
+
 public class Pokemon6 {
     private String nombre;
     private String tipo;

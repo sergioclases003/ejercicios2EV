@@ -1,3 +1,4 @@
+import semana1.*;
 import semana2.*;
 
 public class Main {

@@ -1,3 +1,4 @@
+package semana1;
 
 public class BateriaMovil11 {
     private int porcentaje;

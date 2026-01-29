@@ -1,3 +1,5 @@
+package semana1;
+
 public class post14 {
     private String titulo;
     private int likes;

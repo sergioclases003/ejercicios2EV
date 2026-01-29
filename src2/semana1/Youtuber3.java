@@ -1,3 +1,5 @@
+package semana1;
+
 public class Youtuber3 {
     private String nombreCanal;
     private String categoria;

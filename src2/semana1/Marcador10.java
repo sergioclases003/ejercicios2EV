@@ -1,3 +1,5 @@
+package semana1;
+
 public class Marcador10 {
     private String equipoLocal;
     private String equipoVisitante;
