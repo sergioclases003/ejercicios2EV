@@ -86,26 +86,27 @@ public class Main {
         System.out.println("\nEjecutando Ejercicio 20:"); //4
         sem2coche20.main(args);
 
-        System.out.println("\nEjecutando Ejercicio 21:"); //4
+        System.out.println("\nEjecutando Ejercicio 21:"); //5
         sem2termómetro21.main(args);
 
 
-        System.out.println("\nEjecutando Ejercicio 22:"); //4
+        System.out.println("\nEjecutando Ejercicio 22:"); //6
         sem2mascota22.main(args);
 
 
-        System.out.println("\nEjecutando Ejercicio 23:"); //4
+        System.out.println("\nEjecutando Ejercicio 23:"); //7
         sem2ascensor23.main(args);
 
-        System.out.println("\nEjecutando Ejercicio 24:"); //4
+        System.out.println("\nEjecutando Ejercicio 24:"); //8
         sem2reproductormusica24.main(args);
 
 
-        System.out.println("\nEjecutando Ejercicio 25:"); //4
+        System.out.println("\nEjecutando Ejercicio 25:"); //9
         sem2jugador25.main(args);
 
 
-        System.out.println("\nEjecutando Ejercicio 26:"); //4
+        System.out.println("\nEjecutando Ejercicio 26:"); //10
         sem2tarjetatransporte26.main(args);
+
     }
 }
