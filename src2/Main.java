@@ -91,5 +91,18 @@ public class Main {
         sem2mascota22.main(args);
 
 
+        System.out.println("\nEjecutando Ejercicio 23:"); //4
+        sem2ascensor23.main(args);
+
+        System.out.println("\nEjecutando Ejercicio 24:"); //4
+        sem2reproductormusica24.main(args);
+
+
+        System.out.println("\nEjecutando Ejercicio 25:"); //4
+        sem2jugador25.main(args);
+
+
+        System.out.println("\nEjecutando Ejercicio 26:"); //4
+        sem2tarjetatransporte26.main(args);
     }
 }
