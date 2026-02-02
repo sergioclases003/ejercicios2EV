@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Ejecutando Ejercicio 1:");
         Cancion1.main(args);
 
-        
+
         System.out.println("\nEjecutando Ejercicio 2:");
         Pelicula2.main(args);
 
