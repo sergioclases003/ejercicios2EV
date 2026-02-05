@@ -1,6 +1,6 @@
 import semana1.*;
 import semana2.*;
-
+import semana3.*;
 public class Main {
     public static void main(String[] args) {
 
@@ -124,6 +124,38 @@ public class Main {
 
         System.out.println("\nEjecutando Ejercicio 26:"); //10
         sem2tarjetatransporte26.main(args);
+
+        System.out.println("\nEjecutando Ejercicio 26:"); //10
+        sem2ascensor23.main(args);
+
+
+        /*
+        ================================================================================
+        */
+
+        System.out.println("\n");
+        System.out.println("\n");
+
+        System.out.println("" +
+                " ███████╗███████╗███╗   ███╗ █████╗ ███╗   ██╗ █████╗ \n" +
+                " ██╔════╝██╔════╝████╗ ████║██╔══██╗████╗  ██║██╔══██╗\n" +
+                " ███████╗█████╗  ██╔████╔██║███████║██╔██╗ ██║███████║\n" +
+                " ╚════██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║\n" +
+                " ███████║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║\n" +
+                " ╚══════╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝\n" +
+                "\n" +
+                "        SEMANA 2 - EJERCICIOS");
+        System.out.println("\n");
+
+
+        /*
+        ================================================================================
+        */
+
+
+        System.out.println("\nEjecutando Ejercicio 1:"); //10
+
+
 
     }
 }
